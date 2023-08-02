@@ -20,6 +20,13 @@ CSVファイル等の書き換え要素が発生するものはdef main()より�
 全てのアーキカラーPCA非階層クラスタリング
 ![ALL_Archetype_PCA](https://github.com/ManaBurnSaito/analys_trophies_PCA/assets/139425458/4c887a82-246b-4e7a-ba84-0474d1641611)
 
+
 アーキカラー毎のPCA非階層クラスタリング
 ![BR](https://github.com/ManaBurnSaito/analys_trophies_PCA/assets/139425458/934bf9fb-1274-4b45-8e7f-f1756b84403a)
+
+クラスタリングしたデッキパターン３種
+![BR_0](https://github.com/ManaBurnSaito/analys_trophies_PCA/assets/139425458/2a0a3622-ffa6-4759-9ec7-a2da82e60374)
+![BR_1](https://github.com/ManaBurnSaito/analys_trophies_PCA/assets/139425458/be4be230-e7d2-441f-a323-1d5202497357)
+![BR_2](https://github.com/ManaBurnSaito/analys_trophies_PCA/assets/139425458/a1b65937-9cfd-4d33-a396-733bf77f372c)
+
 
